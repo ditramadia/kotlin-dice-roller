@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Dice Roller</string>
+    <string name="roll_button">Roll</string>
+    <string name="dice_image_alt">Unrolled dice</string>
 </resources>
